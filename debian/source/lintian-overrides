@@ -1,0 +1,5 @@
+python-internetarchive source: file-without-copyright-information
+python-internetarchive source: no-debian-changes
+python-internetarchive source: source-contains-prebuilt-windows-binary
+python-internetarchive source: source-is-missing
+python-internetarchive source: source-package-encodes-python-version
